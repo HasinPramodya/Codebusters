@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drugs_Delivery</string>
+    <string name="cname" />
+    <string name="caddress" />
+    <string name="button">Submit</string>
+    <string name="button2">Cancel</string>
+</resources>
